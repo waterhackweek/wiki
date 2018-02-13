@@ -3,10 +3,10 @@ repository: geohackweek/wiki
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Geohackweek Wiki Documentation
+topnav_title: Geohackweek Wiki
 # this appears on the top navigation bar next to the home button
 
-site_title: Geohackeek Wiki
+site_title: Geohackweek Wiki
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Applied Physics Laboratory
