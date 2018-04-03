@@ -6,10 +6,6 @@ sidebar: mydoc_sidebar
 permalink: index.html
 summary: Overview of the Geohackweek
 ---
-## What is a hackweek?
-
-The hackweek model has emerged within the data science community as a powerful tool for fostering exchange of ideas in research and computation by providing training in modern data analysis workflows. In contrast to conventional academic conferences or workshops, hackweeks are intensive and interactive, facilitated by three core components: tutorials on state-of-the-art methodology, peer-learning, and on-site project work in a collaborative environment. This setup is particularly powerful for sciences that require not only domain-specific knowledge, but also effective computational workflows to foster rapid exchange of ideas and make discovery, as has been shown by the success of the previous Astro-, Neuro-, and Geohackweeks. This is an excellent match with the nature of oceanographic research where data are large and complex and the community is diverse and collaborative.
-
 ### Quick Info
 - Geohack week will happen in the [Odegaard Undergraduate Library](https://www.google.com/maps/place/Odegaard+Undergraduate+Library+(OUG)/@47.6564656,-122.3125347,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f329bffff7:0x6efe7422cf2f2f93!8m2!3d47.656462!4d-122.310346) on the University of Washington campus. We will meet in the [Active Learning Classroom OUG 136](https://www.washington.edu/classroom/OUG+136).
 - Doors open at 9:00 am each morning (Monday-Friday). We will start the morning sessions at **9:00 am sharp.**
