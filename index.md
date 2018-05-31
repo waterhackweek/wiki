@@ -7,8 +7,8 @@ permalink: index.html
 summary: Overview of the Geohackweek
 ---
 ### Quick Info
-- Geohack week will happen in the [Odegaard Undergraduate Library](https://www.google.com/maps/place/Odegaard+Undergraduate+Library+(OUG)/@47.6564656,-122.3125347,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f329bffff7:0x6efe7422cf2f2f93!8m2!3d47.656462!4d-122.310346) on the University of Washington campus. We will meet in the [Active Learning Classroom OUG 136](https://www.washington.edu/classroom/OUG+136).
-- Doors open at 9:00 am each morning (Monday-Friday). We will start the morning sessions at **9:00 am sharp.**
+- Geohack week will happen in the [South Campus Center](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975).
+- Doors open at 8:00 am each morning (Monday-Friday). We will start the morning sessions at **8:30 am sharp.**
 - due to space limitations, only registered geohack participants will be allowed to attend the tutorials and open working sessions.
 - participants are expected to attend all scheduled geohack activities. Contact an organizer if any circumstances prevent you from attending.
 
