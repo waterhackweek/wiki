@@ -15,7 +15,7 @@ summary: Overview of the Geohackweek
 ### Food
 - Lunch is provided for all days. Coffee and snacks will be available throughout each day.
 - Dinner and drinks will be provided on Monday.
-- Participants are expected to take care of their own dinners Tuesday through Friday.
+- Participants are expected to take care of their own breakfasts on all days, and their own dinners Tuesday through Friday.
 - If you plan to drink alcohol at our catered events, please be sure to bring ID as the bartenders are required to check.
 - contact an organizer if you have dietary restrictions and we can provide additional information.
 
