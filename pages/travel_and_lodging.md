@@ -4,7 +4,9 @@ sidebar: mydoc_sidebar
 permalink: travel_and_lodging.html
 ---
 
+<!---
 The meeting will happen in the [Odegaard Undergraduate Library](https://www.google.com/maps/place/Odegaard+Undergraduate+Library+(OUG)/@47.6564656,-122.3125347,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f329bffff7:0x6efe7422cf2f2f93!8m2!3d47.656462!4d-122.310346) on the University of Washington campus. We will meet in the [Active Learning Classroom OUG 136](https://www.washington.edu/classroom/OUG+136).
+--->
 
 # Travel
 
@@ -12,7 +14,7 @@ Seattle-Tacoma International Airport offers a range of connections to the Univer
 
 # Lodging
 
-We are in the process of reserving rooms at the University of Washington North Campus residence hall. Additional  details TBD. 
+We are in the process of reserving rooms at the University of Washington West Campus residence hall. Additional  details TBD. 
 
 <!---
 The University of Washington maintains a list of hotels near campus on its [website](http://fyp.washington.edu/getting-started-at-the-university-of-washington/transportation-options/hotel-accommodations/).
