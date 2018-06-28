@@ -21,7 +21,7 @@ The University of Washington maintains a list of hotels near campus on its [webs
 --->
 Dorm rooms are available on the **West Campus** for **$54.75** per person, per night for **double occupancy**, and **$93.25** per night for **single occupancy**. Instructions for purchasing will be sent out and posted soon.
 
-You will be staying at the West Campus Residence Halls in [Alder Hall] (https://hfs.uw.edu/Live/Housing-Locations/Alder-Hall) 
+You will be staying at the West Campus Residence Halls in [Alder Hall](https://hfs.uw.edu/Live/Housing-Locations/Alder-Hall) 
 
 Check in is at 2pm at the front desk in Lander Hall. The front desk will direct you to Alder Hall where you will be housing and all meetings and courses will take place.
 
