@@ -21,7 +21,7 @@ The University of Washington maintains a list of hotels near campus on its [webs
 --->
 Dorm rooms are available on the **West Campus** for **$54.75** per person, per night for **double occupancy**, and **$93.25** per night for **single occupancy**. Instructions for purchasing will be sent out and posted soon.
 
-You will be staying at the West Campus Residence Halls in [Alder Hall](https://hfs.uw.edu/Live/Housing-Locations/Alder-Hall) 
+You will be staying at the West Campus Residence Halls in [Alder Hall](https://hfs.uw.edu/Live/Housing-Locations/Alder-Hall). 
 
 Check in is at 2pm at the front desk in Lander Hall. The front desk will direct you to Alder Hall where you will be housing and all meetings and courses will take place.
 
@@ -29,6 +29,6 @@ Check out is at 11am. There will be a room where you can store your luggage if y
 
 Our west residence halls feature rooms with private restrooms, wireless Internet, and close proximity to the Henry Art Gallery and the Meany Hall for the Performing Arts. West Campus also boasts one of our All-You-Care-to-Eat (AYCE) dining facilities, Local Point at Lander Hall, full-service restaurant (Cultivate) and campus grocery store (District Market). For off-campus activities, guests have easy access to The Ave, which hosts a number of restaurants, late-night activities and retail establishments.
 
-More info about the dorms can be found here: https://hfs.uw.edu/Conference-Services/Conference-Guests. 
+More info about the dorms can be [found here](https://hfs.uw.edu/Conference-Services/Conference-Guests).
 
-An FAQ sheet about the dorms can be found here: https://hfs.uw.edu/getmedia/750942d5-7fd9-4f0f-8d0a-327cd3100fb0/Guest-FAQ.pdf.aspx
+An FAQ sheet about the dorms can be [found here](https://hfs.uw.edu/getmedia/750942d5-7fd9-4f0f-8d0a-327cd3100fb0/Guest-FAQ.pdf.aspx).
