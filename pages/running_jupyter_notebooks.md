@@ -4,20 +4,23 @@ sidebar: mydoc_sidebar
 permalink: running_jupyter_notebooks.html
 ---
 
-# Getting tutorial contents and running it locally
+# Overview
 
-To get the tutorial contents locally, clone the [github repository](https://github.com/geohackweek/tutorial_contents).
+We will provide geohackweek participants with a centralized, cloud-based environment for working on projects and tutorials. More details on this will follow. For those of you interested in working with our material on your local machine, the steps for this are provided below.
+
+# Acquire the tutorials
+
+To get a copy of the tutorial contents on your local machine, clone the [github repository](https://github.com/geohackweek/tutorial_contents).
 
 ```bash
 $ git clone https://github.com/geohackweek/tutorial_contents.git
 ```
 
-This repo contains all of the materials for GeoHackWeek 2017. In order for us to run the notebooks within each tutorial, we need to run Jupyter Notebook.
+This repo will contain all of the materials for GeoHackWeek 2018. In order for us to run the notebooks within each tutorial, we need to run Jupyter Notebook.
 
-## Installing jupyter notebooks
+## Installing Jupyter Notebooks
 
-Instruction to install conda: https://geohackweek.github.io/preliminary/01-conda-tutorial/
-Tutorial for working with conda: https://geohackweek.github.io/Introductory/01-conda-tutorial/
+The first step in installing a Jupyter Notebook is to install conda. More information on conda can be found in our introductory tutorial [here](https://geohackweek.github.io/preliminary/01-conda-tutorial/).
 
 1. Jupyter notebooks can be easily installed within a conda environment. To do this, go ahead and open up your terminal and run the command below. This will install jupyter notebooks and their dependencies.
 
@@ -25,7 +28,7 @@ Tutorial for working with conda: https://geohackweek.github.io/Introductory/01-c
     $ conda install -c conda-forge jupyter
     ```
 
-2. Once `jupyter` is installed, you can run `jupyter notebook` and a jupyter notebook should open up on your default browser. If not, you can go back to your terminal and see the url.
+2. Once `jupyter` is installed, you can run `jupyter notebook` and a jupyter notebook should open up on your default browser. If not, you can go back to your terminal and copy the url.
 
     ```bash
     Copy/paste this URL into your browser when you connect for the first time,
@@ -58,6 +61,6 @@ Go to the `tutorial_contents` folder and run the command below.
 $ conda env create -f ghw_environment.yml
 ```
 
-This will install a conda environment named `geohackenv`. You can use this environment for your vector and raster geospatial work. One thing to note is that this environment is running `python 2.7`.
+This will install a conda environment named `geohackenv`. You can use this environment for your vector and raster geospatial work. 
 
-I you would like to install the conda environment for each tutorial separately, you can go into the tutorial's subfolder and create the environment from `environment.yml` file.
+If you would like to install the conda environment for each tutorial separately, you can go into the tutorial's subfolder and create the environment from `environment.yml` file.
