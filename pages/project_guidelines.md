@@ -33,42 +33,42 @@ Increasingly, research and software development is being conducted across groups
 * feel free to explore various projects and initiate conversations. The goal is to gather as much information as you can to inform your decision about which team to join when we meet in person.
 * contact a geohack organizer if you would like assistance in assessing whether a project is well-scoped, or if you need help with a particular dataset.
 
-# Project guidelines
+## Project guidelines
 
 Each project requires a brief project summary in the readme.md of each GitHub project folder. Below is a template for the project summary. You can visit the [project folder](https://github.com/geohackweek/projects) on the geohack GitHub page to see existing examples.
 
-#### Project Title
+### Project Title
 
 Brief title describing the proposed work.
 
-#### Collaborators on this project
+### Collaborators on this project
 
 _List all participants on the project. Choose one team member to act as project lead, and identify one geohack organizer as the data science lead._
 
-#### The problem
+### The problem
 
 What geospatial problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
 
-#### Application Example
+### Application Example
 
 List one specific application of this work.
 
-#### Sample data
+### Sample data
 
 If you already have some data to explore, briefly describe it here (size, format, how to access).
 
-#### Specific Questions
+### Specific Questions
 
 List the specific tasks you want to accomplish or research questions you want to answer.
 
-#### Existing methods
+### Existing methods
 
 How would you or others traditionally try to address this problem?
 
-#### Proposed methods/tools
+### Proposed methods/tools
 
 Building from what you learn at geohackweek, what new approaches would you like to try to implement?
 
-#### Background reading
+### Background reading
 
 Optional: links to manuscripts or technical documents for more in-depth analysis.
