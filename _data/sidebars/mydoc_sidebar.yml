@@ -32,10 +32,6 @@ entries:
       url: /code_of_conduct.html
       output: web, pdf
 
-    - title: Hacking Central
-      url: /hacking_central.html
-      output: web, pdf
-
     - title: Mission Statement
       url: /mission_statement.html
       output: web, pdf
