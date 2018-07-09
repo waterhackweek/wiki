@@ -44,26 +44,26 @@ entries:
       url: /travel_and_lodging.html
       output: web, pdf
 
-  - title: Details
+  - title: Tutorials
     output: web, pdf
     folderitems:
 
-    - title: Participants
-      url: /participants.html
+    - title: Preparation
+      url: /learning_resources.html
       output: web, pdf
 
-    - title: Project Guidelines
+  - title: Projects
+    output: web, pdf
+    folderitems:
+
+    - title: Guidelines
       url: /project_guidelines.html
       output: web, pdf
 
-  - title: Content
+  - title: Technical Details
     output: web, pdf
     folderitems:
 
     - title: Running Jupyter Notebooks Locally
       url: /running_jupyter_notebooks.html
-      output: web, pdf
-
-    - title: Hackweek Materials
-      url: /hackweek_materials.html
       output: web, pdf
