@@ -20,13 +20,4 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Geohackweek organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities. 
 
-Harassment and other code of conduct violations reduce the value of Geohackweek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of  the instructors. You can make a report either personally or anonymously. Anonymous reports can be made [here](https://geohackweek.wufoo.com/forms/z19uzh4603se1lc/).
-
- This anti-harassment policy is based on the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the [Ada Initiative](http://adainitiative.org/) and other volunteers. 
-
-
-
-
-Harassment and other code of conduct violations reduce the value of Geohackweek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of  the instructors. You can make a report either personally or anonymously. Anonymous reports can be made here: https://geohackweek.wufoo.com/forms/z19uzh4603se1lc/
-
- This anti-harassment policy is based on the example policy from the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the [Ada Initiative](http://adainitiative.org/) and other volunteers.
+Harassment and other code of conduct violations reduce the value of Geohackweek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the organizers (Anthony Arendt in person or at <a href="mailto:arendta@uw.edu">arendta@uw.edu</a>, or Rachael Murray in person or at <a href="mailto:rlmurray@uw.edu">rlmurray@uw.edu</a>). Anonymous reports can also be made [here](https://geohackweek.wufoo.com/forms/z19uzh4603se1lc/).
