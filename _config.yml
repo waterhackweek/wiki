@@ -9,7 +9,7 @@ topnav_title: Geohackweek Wiki
 site_title: Geohackweek Wiki
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Applied Physics Laboratory
+company_name: eScience Institute, Univeristy of Washington 
 # this appears in the footer
 
 github_editme_path: geohackweek/wiki/blob/gh-pages/
@@ -37,7 +37,7 @@ exclude:
 
 feedback_subject_line: Geohackweek wiki
 
-feedback_email: landungs@uw.edu
+feedback_email: arendta@uw.edu
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
