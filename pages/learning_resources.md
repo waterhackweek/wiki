@@ -1,7 +1,7 @@
 ---
 title: Learning Resources
 sidebar: mydoc_sidebar
-permalink: Learning_resources.html
+permalink: learning_resources.html
 ---
 
 # Overview
