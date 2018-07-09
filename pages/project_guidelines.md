@@ -29,7 +29,7 @@ Increasingly, research and software development is being conducted across groups
 
 ## What can I do to prepare in advance?
 
-* if you have a project idea already brewing, we encourage you to share that with the team on our general Slack channel. We can add additional channels as the project ideas develop.
+* if you have a project idea already brewing, we encourage you to share that with the team on our general Slack channel. 
 * feel free to explore various projects and initiate conversations. The goal is to gather as much information as you can to inform your decision about which team to join when we meet in person.
 * contact a geohack organizer if you would like assistance in assessing whether a project is well-scoped, or if you need help with a particular dataset.
 

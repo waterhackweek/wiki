@@ -60,6 +60,10 @@ entries:
       url: /project_guidelines.html
       output: web, pdf
 
+    - title: Project Management
+      url: /github_project_management.html
+      output: web, pdf
+
   - title: Technical Details
     output: web, pdf
     folderitems:
