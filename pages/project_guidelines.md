@@ -10,11 +10,11 @@ During Geohackweek we will be facilitating open hacking sessions most of the aft
 
 ## What is hacking?
 
-Hacking is a session of focused, highly collaborative computer programming, in which we create conditions for rapid absorption of new ideas and methods. Visit our [hacking central](Hacking-Central) page for more specific information on this approach.
+Hacking is a session of focused, highly collaborative computer programming, in which we create conditions for rapid absorption of new ideas and methods. The word "hack" or "hackathon" has many different interpretations, both positive and negative. Here our intention is to foster the idea of hacking as a fun, interactive and welcoming environment to explore and experiment with computer code.  
 
 ## Why is this important?
 
-Increasingly, research and software development is being conducted across groups of people with diverse skills and backgrounds. We believe this collaborative work leads to more innovative solutions to complex problems. At geohack week, our goal is to explore with you some of the skills needed to navigate technical and social challenges of working in these kinds of collaborative settings.
+Increasingly, research and software development is being conducted across groups of people with diverse skills and backgrounds. We believe this collaborative work leads to more innovative solutions to complex problems. At geohackweek, our goal is to explore with you some of the skills needed to navigate technical and social challenges of working in these kinds of collaborative settings.
 
 ## How will the projects be conducted?
 
@@ -35,7 +35,7 @@ Increasingly, research and software development is being conducted across groups
 
 # Project guidelines
 
-Each project requires a brief project summary in the readme.md of each GitHub project folder. Below is a template for the project summary. You can visit the [project folder](https://github.com/geohackweek/ghw2017/tree/master/projects) on the geohack GitHub page to see existing examples.
+Each project requires a brief project summary in the readme.md of each GitHub project folder. Below is a template for the project summary. You can visit the [project folder](https://github.com/geohackweek/projects) on the geohack GitHub page to see existing examples.
 
 #### Project Title
 
