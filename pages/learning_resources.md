@@ -6,7 +6,7 @@ permalink: learning_resources.html
 
 # Overview
 
-All tutorials at Geohackweek will be written in [Python](https://www.python.org/). At geohackweek We welcome participants with a wide range of coding skills, from beginner to advanced. As with any educational opportunity, arriving with some advanced preparation will increase the liklihood for positive learning outcomes. We encourage everyone, especially those of you new to the Python programming language, to work through some of these resources in advance. Feel free to contact us if you have any questions.
+All tutorials at Geohackweek will be written in [Python](https://www.python.org/). At geohackweek we welcome participants with a wide range of coding skills, from beginner to advanced. As with any educational opportunity, arriving with some advanced preparation will increase the liklihood for positive learning outcomes. We encourage everyone, especially those of you new to the Python programming language, to work through some of these resources in advance. Feel free to contact us if you have any questions.
 
 ## eScience Institute tutorials
 
