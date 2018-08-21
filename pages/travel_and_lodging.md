@@ -41,8 +41,8 @@ $20.00 nonrefundable Housing Reservation Fee
 
 **EARLY ARRIVALS & LATE DEPARTURES**
 Limited Early Arrival and Late Departure housing is available at an additional charge. Meals are not included. There is no refund for canceled Early Arrival or Late Departure nights after the reservation deadline date.
-- Early Arrival Housing: Night of Saturday, September 8, 2018
-- Late Departure Housing: Night of Friday, September 14, 2018 (check out is at 8am on Saturday, September 15)
+- **Early Arrival Housing:** Night of Saturday, September 8, 2018
+- **Late Departure Housing:** Night of Friday, September 14, 2018 (check out is at 8am on Saturday, September 15)
 - Rates (per person, per night):
 - $64.75 Double Occupancy
 - $103.25 Single Occupancy
