@@ -26,7 +26,7 @@ Participants are responsible for paying for travel and lodging. We have reserved
 The University of Washington maintains a list of hotels near campus on its [website](http://fyp.washington.edu/getting-started-at-the-university-of-washington/transportation-options/hotel-accommodations/).
 --->
 You will be staying at the West Campus Residence Halls in [Alder Hall](https://hfs.uw.edu/Live/Housing-Locations/Alder-Hall). 
-- **Check in is at 2pm** at the front desk in [Lander Hall](https://www.google.com/maps/place/Lander+Hall/@47.655878,-122.31524,15z/data=!4m5!3m4!1s0x0:0xccf338a83d26e753!8m2!3d47.655878!4d-122.3152398?hl=en-US). The front desk will direct you to [Alder Hall](https://www.google.com/maps/place/Alder+Hall,+1315+NE+Campus+Pkwy,+Seattle,+WA+98105/@47.6558003,-122.3160943,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3abe36e05:0xe31f6b19dc9d1dac!8m2!3d47.6558003!4d-122.3139056) where you will be housing.
+**Check in is at 2pm** at the front desk in [Lander Hall](https://www.google.com/maps/place/Lander+Hall/@47.655878,-122.31524,15z/data=!4m5!3m4!1s0x0:0xccf338a83d26e753!8m2!3d47.655878!4d-122.3152398?hl=en-US). The front desk will direct you to [Alder Hall](https://www.google.com/maps/place/Alder+Hall,+1315+NE+Campus+Pkwy,+Seattle,+WA+98105/@47.6558003,-122.3160943,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3abe36e05:0xe31f6b19dc9d1dac!8m2!3d47.6558003!4d-122.3139056) where you will be housing.
 
 **PACKAGE DESCRIPTION**
 Sunday, September 9, 2018 - Friday, September 14, 2018
