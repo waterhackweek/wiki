@@ -1,18 +1,18 @@
-repository: geohackweek/wiki
+repository: waterhackweek/wiki
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Geohackweek Wiki
+topnav_title: Waterhackweek Wiki
 # this appears on the top navigation bar next to the home button
 
-site_title: Geohackweek Wiki
+site_title: Waterhackweek Wiki
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: eScience Institute, Univeristy of Washington 
 # this appears in the footer
 
-github_editme_path: geohackweek/wiki/blob/gh-pages/
+github_editme_path: waterhackweek/wiki/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -35,9 +35,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Geohackweek wiki
+feedback_subject_line: Waterhackweek wiki
 
-feedback_email: arendta@uw.edu
+feedback_email: cristn@uw.edu
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -111,5 +111,5 @@ description: "Wiki page for Geohackweek"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://geohackweek.github.io
+url: https://waterhackweek.github.io
 baseurl: /wiki
