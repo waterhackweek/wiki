@@ -1,13 +1,13 @@
 ---
-title: "Geohackweek 2018"
+title: "Waterhackweek 2019"
 keywords: homepage
 tags: [homepage]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: Overview of the Geohackweek
+summary: Overview of the Waterhackweek
 ---
 ### Quick Info
-- Geohackweek will happen Sept. 10th - 14th in the [South Campus Center](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975), Room 221.
+- Waterhackweek will happen March 23 - 31 in the [South Campus Center](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975), Room 221.
 - Doors open at 8:00 am each morning (Monday-Friday). We will start the morning sessions at **8:30 am sharp.**
 - Due to space limitations, only registered geohack participants will be allowed to attend the tutorials and open working sessions.
 - Participants are expected to attend all scheduled geohack activities. Contact an organizer if any circumstances prevent you from attending.
@@ -22,8 +22,8 @@ summary: Overview of the Geohackweek
 
 ### Internet access and communication
 - For information on wireless access, you can either use Eduroam, if it's available to you, or we'll give you guest access to the UW network on the first day.
-- Twitter: #Geohackweek
-- Slack: [https://geohackweek2018.slack.com](https://geohackweek2018.slack.com)
+- Twitter: #Waterhackweek
+- Slack: [https://waterhackweek2019.slack.com](https://waterhackweek2019.slack.com)
 
 <!---
 ### Pre-event preparation:
