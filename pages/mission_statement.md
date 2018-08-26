@@ -21,7 +21,7 @@ The connections we make during the hackathon will be maintained through an onlin
 
 We recognize the challenge of many geospatial investigations in accessing increasingly large datasets, such as high resolution remote sensing imagery. We will explore various solutions, including the co-location of datasets with software tools using services provided by commercial cloud vendors.
 
-Geohackweek will include support for geospatial tools, technologies, resources and datasets. Support will range from description and advocacy up to and including expert tutorials (group or 1-on-1) with demonstrations. The intent is for Geohackweek participants to discover and develop cursory understanding of new resources. Supposing you find something you'd like to explore further you should come away with an understanding of the adoption path.
+Waterhackweek will include support for geospatial tools, technologies, resources and datasets. Support will range from description and advocacy up to and including expert tutorials (group or 1-on-1) with demonstrations. The intent is for Waterhackweek participants to discover and develop cursory understanding of new resources. Supposing you find something you'd like to explore further you should come away with an understanding of the adoption path.
 
 ### Software Development
 

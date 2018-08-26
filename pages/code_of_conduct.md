@@ -4,7 +4,7 @@ sidebar: mydoc_sidebar
 permalink: code_of_conduct.html
 ---
 
-Geohackweek is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organizers. 
+Waterhackweek is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organizers.
 
 Harassment includes, but is not limited to: 
 * Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.
@@ -16,8 +16,8 @@ Harassment includes, but is not limited to:
 * Unwelcome sexual attention
 * Advocating for, or encouraging, any of the above behaviour
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behaviour, the organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from Geohackweek with no refund. 
+Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behaviour, the organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from Waterhackweek with no refund.
 
-Geohackweek organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities. 
+Waterhackweek organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities.
 
-Harassment and other code of conduct violations reduce the value of Geohackweek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the organizers (Anthony Arendt in person or at <a href="mailto:arendta@uw.edu">arendta@uw.edu</a>, or Rachael Murray in person or at <a href="mailto:rlmurray@uw.edu">rlmurray@uw.edu</a>). Anonymous reports can also be made [here](https://geohackweek.wufoo.com/forms/z19uzh4603se1lc/).
+Harassment and other code of conduct violations reduce the value of Waterhackweek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the organizers (Anthony Arendt in person or at <a href="mailto:arendta@uw.edu">arendta@uw.edu</a>, or Rachael Murray in person or at <a href="mailto:rlmurray@uw.edu">rlmurray@uw.edu</a>). Anonymous reports can also be made [here](https://waterhackweek.wufoo.com/forms/z19uzh4603se1lc/).

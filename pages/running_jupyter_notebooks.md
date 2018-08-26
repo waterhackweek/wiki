@@ -6,21 +6,21 @@ permalink: running_jupyter_notebooks.html
 
 # Overview
 
-We will provide geohackweek participants with a centralized, cloud-based environment for working on projects and tutorials. More details on this will follow. For those of you interested in working with our material on your local machine, the steps for this are provided below.
+We will provide waterhackweek participants with a centralized, cloud-based environment for working on projects and tutorials. More details on this will follow. For those of you interested in working with our material on your local machine, the steps for this are provided below.
 
 # Acquire the tutorials
 
-To get a copy of the tutorial contents on your local machine, clone the [github repository](https://github.com/geohackweek/tutorial_contents).
+To get a copy of the tutorial contents on your local machine, clone the [github repository](https://github.com/waterhackweek/tutorial_contents).
 
 ```bash
-$ git clone https://github.com/geohackweek/tutorial_contents.git
+$ git clone https://github.com/waterhackweek/tutorial_contents.git
 ```
 
-This repo will contain all of the materials for GeoHackWeek 2018. In order for us to run the notebooks within each tutorial, we need to run Jupyter Notebook.
+This repo will contain all of the materials for WaterhackWeek 2018. In order for us to run the notebooks within each tutorial, we need to run Jupyter Notebook.
 
 ## Installing Jupyter Notebooks
 
-The first step in installing a Jupyter Notebook is to install conda. More information on conda can be found in our introductory tutorial [here](https://geohackweek.github.io/preliminary/01-conda-tutorial/).
+The first step in installing a Jupyter Notebook is to install conda. More information on conda can be found in our introductory tutorial [here](https://waterhackweek.github.io/preliminary/01-conda-tutorial/).
 
 1. Jupyter notebooks can be easily installed within a conda environment. To do this, go ahead and open up your terminal and run the command below. This will install jupyter notebooks and their dependencies.
 
@@ -53,7 +53,7 @@ $ conda install -c conda-forge ipykernel nb_conda_kernels
 **Note: For `nb_conda_kernels` to see your other conda environments, you need to install `ipykernel` in those conda environment.**
 
 
-## Installing a general geohack vector and raster conda environment
+## Installing a general waterhack vector and raster conda environment
 
 Go to the `tutorial_contents` folder and run the command below.
 
@@ -61,6 +61,6 @@ Go to the `tutorial_contents` folder and run the command below.
 $ conda env create -f ghw_environment.yml
 ```
 
-This will install a conda environment named `geohackenv`. You can use this environment for your vector and raster geospatial work. 
+This will install a conda environment named `waterhackenv`. You can use this environment for your vector and raster geospatial work.
 
 If you would like to install the conda environment for each tutorial separately, you can go into the tutorial's subfolder and create the environment from `environment.yml` file.

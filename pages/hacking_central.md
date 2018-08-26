@@ -28,7 +28,7 @@ Examples of hacks include:
 * Who are you going to hack with? Here's [the list of your fellow hackers](Participants)
 * What are you going to work on?
 * Start pitching ideas on our #general slack channel, and then once projects materialize, we can migrate to a separate project channel
-* Begin populating a geohackweek GitHub project page
+* Begin populating a waterhackweek GitHub project page
 
 ## Schedule
 
