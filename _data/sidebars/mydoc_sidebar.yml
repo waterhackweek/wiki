@@ -49,7 +49,7 @@ entries:
       output: web, pdf
 
     - title: Tutorial leads
-      url: /learning_resources.html
+      url: /tutorial_leads.html
       output: web, pdf
 
   - title: Projects
