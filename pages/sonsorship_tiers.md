@@ -1,5 +1,5 @@
 ---
-title: Tutorial Leads
+title: Information for sponsors
 sidebar: mydoc_sidebar
 permalink: sponsorship_tiers.html
 ---
