@@ -15,6 +15,6 @@ One mission of the eScience Institute is to foster education in data science met
 ## Other Resources
 
 * general Python beginners guide tutorials and examples [here](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-* Ryan Abernathey has some good introductory Python lectures [here](https://github.com/rabernat/python_teaching)
+* Ryan Abernathey introductory Python lectures [here](https://github.com/rabernat/python_teaching)
 * Joe Hamman's [xarray tutorials](https://github.com/jhamman/xarray_tutorial/tree/master/tutorial)
 
