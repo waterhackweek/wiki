@@ -71,3 +71,11 @@ entries:
     - title: Running Jupyter Notebooks Locally
       url: /running_jupyter_notebooks.html
       output: web, pdf
+
+  - title: Information for sponsors
+    output: web, pdf
+    folderitems:
+
+    - title: Sponsorship Tiers
+      url: /sponsorship_tiers.html
+      output: web, pdf
