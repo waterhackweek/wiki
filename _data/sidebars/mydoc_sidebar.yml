@@ -40,6 +40,10 @@ entries:
       url: /travel_and_lodging.html
       output: web, pdf
 
+    - title: Diversity Statement
+      url: /diversity_statement.html
+      output: web, pdf
+
   - title: Tutorials
     output: web, pdf
     folderitems:
