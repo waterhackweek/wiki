@@ -20,34 +20,6 @@ Taxi’s and uber/lyft are also available from the airport. Note that for uber/l
 
 # Lodging
 
-Participants are responsible for paying for travel and lodging. We have reserved single and double rooms at the University of Washington west campus dorms for participants. More info to come on how to purchase and reserve a dorm room if you are interested. You may also choose to stay in a hotel, airbnb, etc if you would prefer.
+Participants are responsible for paying for and making all travel and lodging arrangements. Please book and pay for your travel and lodging asap. You are responsible for making your travel and lodging arrangements. Please plan to arrive in Seattle by Sunday, March 24 and be here until the evening of Friday, March 29th in order to participate fully in the Waterhackweek. 
 
-<!---
-The University of Washington maintains a list of hotels near campus on its [website](http://fyp.washington.edu/getting-started-at-the-university-of-washington/transportation-options/hotel-accommodations/).
---->
-You will be staying at the West Campus Residence Halls in [Alder Hall](https://hfs.uw.edu/Live/Housing-Locations/Alder-Hall). 
-**Check in is at 2pm** at the front desk in [Lander Hall](https://www.google.com/maps/place/Lander+Hall/@47.655878,-122.31524,15z/data=!4m5!3m4!1s0x0:0xccf338a83d26e753!8m2!3d47.655878!4d-122.3152398?hl=en-US). The front desk will direct you to [Alder Hall](https://www.google.com/maps/place/Alder+Hall,+1315+NE+Campus+Pkwy,+Seattle,+WA+98105/@47.6558003,-122.3160943,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3abe36e05:0xe31f6b19dc9d1dac!8m2!3d47.6558003!4d-122.3139056) where you will be housing.
-
-**PACKAGE DESCRIPTION**
-Sunday, September 9, 2018 - Friday, September 14, 2018
-- Check in time: 2pm
-- Check out time: 5pm on Friday, September 14 or 8am on Saturday, September 15
-- $293.75 Double Occupancy
-- $486.25 Single Occupancy
-
-**Package Includes:**
-5 nights of housing
-$20.00 nonrefundable Housing Reservation Fee
-
-**EARLY ARRIVALS & LATE DEPARTURES**
-Limited Early Arrival and Late Departure housing is available at an additional charge. Meals are not included. There is no refund for canceled Early Arrival or Late Departure nights after the reservation deadline date.
-- **Early Arrival Housing:** Night of Saturday, September 8, 2018
-- **Late Departure Housing:** Night of Friday, September 14, 2018 (check out is at 8am on Saturday, September 15)
-- Rates (per person, per night):
-- $64.75 Double Occupancy
-- $103.25 Single Occupancy
-
-- Reservations and full payment must be submitted no later than Wednesday, September 5, 2018. Reservations received after this date are charged a $25.00 Late Reservation Fee and are only processed on a space-available basis.
-- Our west residence halls feature rooms with private restrooms, wireless Internet, and close proximity to the Henry Art Gallery and the Meany Hall for the Performing Arts. West Campus also boasts one of our All-You-Care-to-Eat (AYCE) dining facilities, Local Point at Lander Hall, full-service restaurant (Cultivate) and campus grocery store (District Market). For off-campus activities, guests have easy access to The Ave, which hosts a number of restaurants, late-night activities and retail establishments.
-- More info about the dorms can be [found here](https://hfs.uw.edu/Conference-Services/Conference-Guests).
-- An FAQ sheet about the dorms can be [found here](https://hfs.uw.edu/getmedia/750942d5-7fd9-4f0f-8d0a-327cd3100fb0/Guest-FAQ.pdf.aspx).
+Options for lodging: Hotels that are close to the UW campus include the Marriott Residence Inn, Watertown Hotel and the University Inn. You are also welcome to book an airbnb or making other lodging arrangements.
