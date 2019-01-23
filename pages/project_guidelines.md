@@ -8,7 +8,7 @@ permalink: project_guidelines.html
 
 Data science projects are becoming increasingly complex, and new tools are needed to manage contributions from different individuals and teams. At waterhackweek we would like to introduce you to project management tools built in to GitHub. We invite you to use these tools during our event for your projects, and hopefully continue to contribute to this collaborative work after the event is over.  Projects will be a collaborative effort to collectively advance a complex research question, while meeting individual learning goals.  The Project Lead designs the research question and prepares preliminary dataset and existing code. The Data Science Lead support the Project Lead and a team of 2-5 other participants to develop a new innovation, insight or research product using open source code. The teams are invited to work together using any methods, platforms, libraries or data they choose. At the end of the week, each team is requested to add their work as a repository at https://github.com/waterhackweek.   A table of projects is available in the projects repository, which links to individual project repositories (updated annually; see geohackweek/projects for an example). 
 
-## Project Data Science Leads
+## Project and Data Science Leads
 
 Project Lead
 
