@@ -4,6 +4,23 @@ sidebar: mydoc_sidebar
 permalink: project_guidelines.html
 ---
 
+## Overview
+
+Data science projects are becoming increasingly complex, and new tools are needed to manage contributions from different individuals and teams. At waterhackweek we would like to introduce you to project management tools built in to GitHub. We invite you to use these tools during our event for your projects, and hopefully continue to contribute to this collaborative work after the event is over.  Projects will be a collaborative effort to collectively advance a complex research question, while meeting individual learning goals.  The Project Lead designs the research question and prepares preliminary dataset and existing code. The Data Science Lead support the Project Lead and a team of 2-5 other participants to develop a new innovation, insight or research product using open source code. The teams are invited to work together using any methods, platforms, libraries or data they choose. At the end of the week, each team is requested to add their work as a repository at https://github.com/waterhackweek.   A table of projects is available in the projects repository, which links to individual project repositories (updated annually; see geohackweek/projects for an example). 
+
+## Project Data Science Leads
+
+Project Lead
+
+The Project Lead is responsible for overall project management and supporting the learning objectives of the team.  We will be working with 4-5 project leads each year to prepare a project in the months preceeding the hackweek - please review this Github page https://github.com/waterhackweek/projects/blob/master/README.md for the project description, examples, and guidelines for developing a Waterhackweek project repository. 
+
+Data Science Lead
+
+The data science Lead is from the pool of instructors who has expertise in the data tools and methods matched with a team based on common interests. 
+
+The Project and Data Science leads are expected to participate every afternoon as a contributing team member. 
+
+
 ## Purpose of the projects:
 
 During Waterhackweek we will be facilitating open hacking sessions most of the afternoons. The purpose of these sessions is for you to gain hands-on experience in working together on a well-defined problem related to geospatial sciences.
