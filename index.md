@@ -25,6 +25,8 @@ summary: Overview of the Waterhackweek
 - Twitter: #Waterhackweek
 - Slack: [https://waterhackweek2019.slack.com](https://waterhackweek2019.slack.com)
 
+
+
 <!---
 ### Pre-event preparation:
 - Please review our [Code of Conduct](https://github.com/waterhackweek/ghw2017/wiki/Code-of-Conduct).
