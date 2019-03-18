@@ -23,7 +23,7 @@ The Project and Data Science leads are expected to participate every afternoon a
 
 ## Purpose of the projects:
 
-During Waterhackweek we will be facilitating open hacking sessions most of the afternoons. The purpose of these sessions is for you to gain hands-on experience in working together on a well-defined problem related to geospatial sciences.
+During Waterhackweek we will be facilitating open hacking sessions most of the afternoons. The purpose of these sessions is for you to gain hands-on experience in working together on a well-defined problem related to water sciences.
 
 ## What is hacking?
 
@@ -64,7 +64,7 @@ _List all participants on the project. Choose one team member to act as project 
 
 ### The problem
 
-What geospatial problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
+What water problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
 
 ### Application Example
 
