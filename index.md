@@ -7,10 +7,10 @@ permalink: index.html
 summary: Overview of the Waterhackweek
 ---
 ### Quick Info
-- Waterhackweek will happen March 25 - 29 in the [South Campus Center](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975), Room 221.
+- Waterhackweek will happen March 25 - 29 in the [South Campus Center](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975), Room 221. See [Travel and Lodging](https://waterhackweek.github.io/wiki/travel_and_lodging.html) for information on parking and transit options.
 - Doors open at 8:00 am each morning (Monday-Friday). We will start the morning sessions at **9:00 am sharp.**
-- Due to space limitations, only registered waterhack participants will be allowed to attend the tutorials and open working sessions.
-- Participants are expected to attend all scheduled waterhack activities. Contact an organizer if any circumstances prevent you from attending.
+- Due to space limitations, only registered Waterhack participants will be allowed to attend the tutorials and open working sessions.
+- Participants are expected to attend all scheduled Waterhack activities. Contact an organizer if any circumstances prevent you from attending.
 
 ### Food
 - Lunch is provided Monday - Friday. You will receive a meal card to purchase lunch anywhere on campus. You will have $12 per day or $60 for the week. The closest place to get food from the [South Campus Center Classroom](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975) is [The Rotunda](https://www.google.com/maps/place/The+Rotunda/@47.6511327,-122.3127829,17z/data=!3m1!4b1!4m5!3m4!1s0x549014edcc167af3:0xb5ac65b12f1dabaf!8m2!3d47.6511327!4d-122.3105889). [Local Point](https://www.google.com/maps/place/Local+Point/@47.6555201,-122.3171532,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f3b7263aa7:0x9b4a428fed19f0fa!8m2!3d47.6555201!4d-122.3149592) is another good option; it is an all you can eat dinning facility about a 15 minute walk from the classrooms.
