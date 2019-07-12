@@ -21,4 +21,4 @@ As a hackweek sponsor for this event, your number one responsibility is also to 
 
 # What can sponsors expect to gain from this experience?
 
-This is an opportunity to build new contacts in the community, recruit students and generate new project ideas.  Participants will also have the opportunity to learn about you and your activities.
+This is an opportunity to build new contacts in the community, recruit students and collaborators and generate new project ideas.  Participants will also have the opportunity to learn about you and your activities.
