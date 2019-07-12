@@ -5,7 +5,7 @@ permalink: code_of_conduct.html
 ---
 
 Waterhackweek is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organizers.
-Please refer here for [guidelines on how to interact at Waterhackweek](Ways_to_interact_at_Waterhackweek_2019_FINAL.pdf)
+Please refer here for [guidelines on how to interact at Waterhackweek](Ways_to_interact_at_Waterhackweek_2019_FINAL.pdf).
 Harassment includes, but is not limited to: 
 * Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.
 * Sexual images in public spaces
