@@ -44,6 +44,10 @@ entries:
       url: /diversity_statement.html
       output: web, pdf
 
+    - title: Merit rubrics
+      url: /rubric_for_selection.html
+      output: web, pdf
+
   - title: Tutorials
     output: web, pdf
     folderitems:
