@@ -6,7 +6,7 @@ permalink: tutorial_leads.html
 
 # Overview
 
-We are currently recruiting tutorial leads for the 2019 Waterhackweek. The purpose of this page is to provide detailed information on the activities, roles and responsibilities of hackweek tutorial leads. We draw this information from our [publication on hackweeks](http://www.pnas.org/content/115/36/8872.short).
+We are currently recruiting tutorial leads for the 2020 Waterhackweek. The purpose of this page is to provide detailed information on the activities, roles and responsibilities of hackweek tutorial leads. We draw this information from our [publication on hackweeks](http://www.pnas.org/content/115/36/8872.short).
 
 # Roles and Responsibilities
 
