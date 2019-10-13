@@ -1,5 +1,5 @@
 ---
-title: Information for sponsors
+title: Rubrics for participant selection
 sidebar: mydoc_sidebar
 permalink: rubric_for_selection.html
 ---
