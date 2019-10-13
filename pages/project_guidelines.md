@@ -10,12 +10,12 @@ Data science projects are becoming increasingly complex, and new tools are neede
 
 ## Project and Data Science Leads
 
-Project Lead
+[Project Lead](https://waterhackweek.github.io/wiki/project_leads.html)
 
 The Project Lead is responsible for overall project management and supporting the learning objectives of the team.  We will be working with 4-5 project leads each year to prepare a project in the months preceeding the hackweek - please review this Github page https://github.com/waterhackweek/projects/blob/master/README.md for the project description, examples, and guidelines for developing a Waterhackweek project repository. 
 
 
-[Data Science Lead]()
+[Data Science Lead](https://waterhackweek.github.io/wiki/data_science_leads.html)
 
 The data science Lead is from the pool of instructors who has expertise in the data tools and methods matched with a team based on common interests. 
 
