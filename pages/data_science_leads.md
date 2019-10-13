@@ -1,5 +1,5 @@
 ---
-title: Tutorial Leads
+title: Data Science Leads
 sidebar: mydoc_sidebar
 permalink: data_science_leads.html
 ---

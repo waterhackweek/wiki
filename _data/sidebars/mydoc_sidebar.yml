@@ -72,6 +72,14 @@ entries:
       url: /github_project_management.html
       output: web, pdf
 
+    - title: Data Scientist Leads
+      url: /data_science_leads.html
+      output: web, pdf
+
+    - title: Project Scientist Leads
+      url: /project_leads.html
+      output: web, pdf
+
   - title: Technical Details
     output: web, pdf
     folderitems:
@@ -87,3 +95,4 @@ entries:
     - title: Sponsorship Tiers
       url: /sponsorship_tiers.html
       output: web, pdf
+
