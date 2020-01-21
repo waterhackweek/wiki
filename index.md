@@ -1,5 +1,5 @@
 ---
-title: "Waterhackweek 2019"
+title: "Waterhackweek 2020"
 keywords: homepage
 tags: [homepage]
 sidebar: mydoc_sidebar
@@ -7,7 +7,7 @@ permalink: index.html
 summary: Overview of the Waterhackweek
 ---
 ### Quick Info
-- Waterhackweek will happen March 25 - 29 in the [South Campus Center](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975), Room 221. See [Travel and Lodging](https://waterhackweek.github.io/wiki/travel_and_lodging.html) for information on parking and transit options.
+- Waterhackweek will happen March 23 - 27 in the [South Campus Center](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975), Room 221. See [Travel and Lodging](https://waterhackweek.github.io/wiki/travel_and_lodging.html) for information on parking and transit options.
 - Doors open at 8:00 am each morning (Monday-Friday). Events will begin at 8:30 am on Monday and Tuesday. The Wednesday, Thursday, and Friday events will begin at 9:00 am. See the [Schedule](https://waterhackweek.github.io/schedule.html) for more details.
 - Due to space limitations, only registered Waterhack participants will be allowed to attend the tutorials and open working sessions.
 - Participants are expected to attend all scheduled Waterhack activities. Contact an organizer if any circumstances prevent you from attending.
