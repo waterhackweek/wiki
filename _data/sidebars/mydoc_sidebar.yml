@@ -1,0 +1,98 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Waterhackweek Wiki
+  version: 2019
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Hackweek Overview
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Code of Conduct
+      url: /code_of_conduct.html
+      output: web, pdf
+
+    - title: Mission Statement
+      url: /mission_statement.html
+      output: web, pdf
+
+    - title: Travel and Lodging
+      url: /travel_and_lodging.html
+      output: web, pdf
+
+    - title: Diversity Statement
+      url: /diversity_statement.html
+      output: web, pdf
+
+    - title: Merit rubrics
+      url: /rubric_for_selection.html
+      output: web, pdf
+
+  - title: Tutorials
+    output: web, pdf
+    folderitems:
+
+    - title: Preparation
+      url: /learning_resources.html
+      output: web, pdf
+
+    - title: Tutorial leads
+      url: /tutorial_leads.html
+      output: web, pdf
+
+  - title: Projects
+    output: web, pdf
+    folderitems:
+
+    - title: Guidelines
+      url: /project_guidelines.html
+      output: web, pdf
+
+    - title: Project Management
+      url: /github_project_management.html
+      output: web, pdf
+
+    - title: Data Scientist Leads
+      url: /data_science_leads.html
+      output: web, pdf
+
+    - title: Project Scientist Leads
+      url: /project_leads.html
+      output: web, pdf
+
+  - title: Technical Details
+    output: web, pdf
+    folderitems:
+
+    - title: Running Jupyter Notebooks Locally
+      url: /running_jupyter_notebooks.html
+      output: web, pdf
+
+  - title: Information for sponsors
+    output: web, pdf
+    folderitems:
+
+    - title: Sponsorship Tiers
+      url: /sponsorship_tiers.html
+      output: web, pdf
+
