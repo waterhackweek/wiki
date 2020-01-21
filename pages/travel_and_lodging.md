@@ -12,7 +12,7 @@ The meeting will happen in the [Odegaard Undergraduate Library](https://www.goog
 
 Seattle-Tacoma International Airport offers a range of connections to the University of Washington Campus.
 
-The [Link light rail](https://www.soundtransit.org/Schedules/Link-light-rail) is an easy, great way to get to the UW from the airport. It picks you up at the airport, comes about every 5-15 minutes, and drops you off right on the UW campus; just a 15 minute walk from the dorms you will be staying in.
+The [Link light rail](https://www.soundtransit.org/Schedules/Link-light-rail) is an easy, great way to get to the UW from the airport. It stops by the airport about every 5-15 minutes and has its final stop at the UW campus; just a 15-minute walk from the venue. 
 
 From the arrivals hall at Sea-Tac Airport, follow the signs for Link Light Rail; the station is a short walk from the terminal on the far side of the parking garage. Tickets must be purchased at the station before boarding. The cost is $2.75 and can be paid in cash or with a credit/debit card. Take the train to the last stop (UW).
 
@@ -36,4 +36,4 @@ If you'd prefer not to drive, there are public transportation options to get you
 
 The event is a 10-15 minute walk from the last stop on the Link light rail: the [University of Washington Station](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations/university-washington-station). 
 
-Further, there are a wide range of [King County Metro bus routes](https://tripplanner.kingcounty.gov/) that serve the campus area. Bus fares are $2.75 (and drivers do NOT have change).
+Furthermore, there are a wide range of [King County Metro bus routes](https://tripplanner.kingcounty.gov/) that serve the campus area. Bus fares are $2.75 (and drivers do NOT have change).
