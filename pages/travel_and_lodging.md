@@ -28,7 +28,7 @@ Options for lodging: Hotels that are close to the UW campus include the Marriott
 
 The nearest parking garage is the South Campus Garage, which is conveniently attached to the event location, the South Campus Center. To get a pass, you will need stop by the [nearby gatehouse on NE Columbia Road](uw.edu/maps/?south-gatehouse-ne-columbia-road). However, the rate to park in that garage is $15 per day.
 
-The [self-serve parking lots](https://transportation.uw.edu/park/visitor/self-serve) tend to be cheaper, but are not as close. In particular, the [E18 and E1 lots](uw.edu/maps/?emergency-phone-18) are $6.75 per day, but require a 20-25 minute walk to the South Campus Center.
+The [self-serve parking lots](https://transportation.uw.edu/park/visitor/self-serve) tend to be cheaper, but are not as close. In particular, the E18 and E1 lotsare $6.75 per week day, but require a 20-25 minute walk to the South Campus Center.
 
 # Transit
 
