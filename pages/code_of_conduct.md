@@ -27,7 +27,6 @@ If you have experienced or observed a Code of Conduct Violation (unethical or un
 For an immediate in person response to discuss concerns or next steps, contact Waterhackweek Program Director: Christina Bandaragoda, cband@uw.edu.
 
 For an  informal, neutral, and confidential resource  that can help the University community address complaints and/or challenging situations, contact the Office of the Ombud, 206-543-6028. ombuds@uw.edu, www.uw.edu/ombud.   For individuals who are uncertain about whether they want to pursue a formal complaint, but would like someone to speak to, the Ombud office would be a good place to start and they can assist with navigating the different resources on campus.
-We have scheduled an appointment with the Ombud for Friday 3/29/2019 at 3:45 pm that is available to any Waterhackweek participant who would like to discuss any concerns.  
 
 If an individual would like to file a formal complaint around a concern about discrimination, they can contact University Complaint Investigation and Resolution Office (UCIRO):       https://www.washington.edu/compliance/uciro/,    206-616-2028,   uciro@uw.edu.
 
