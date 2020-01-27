@@ -14,6 +14,6 @@ All participants will be added to the [waterhackweek organization](https://githu
 
 ## Getting started with a Project
 
-Each WaterHackWeek project should be initiated by adding a New Repository to the WaterHackWeek organization at https://github.com/waterhackweek.  The project name should follow the sequence whw2019_short_snappy_title, for example, see this Geohackweek project repository from 2018.  [ghw2018_web_portal_inlandwater_co2](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2) 
+Each WaterHackWeek project should be initiated by adding a New Repository to the WaterHackWeek organization at https://github.com/waterhackweek.  The project name should follow the sequence whw_short_snappy_title, for example, see this Geohackweek project repository from 2018.  [ghw2018_web_portal_inlandwater_co2](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2) 
 
 Once you have created your project repository, populate the readme with the structure provided in the [Project Guidelines](https://waterhackweek.github.io/wiki/project_guidelines.html).    Finally, go to the [Waterhackweek Projects Github](https://github.com/waterhackweek/projects) repository and edit the readme table to include a hyperlink to your project where you have the option of adding other details like Slack Channel link, data locations, and other details about project and data science leadership on the project.  
