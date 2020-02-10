@@ -13,7 +13,7 @@ summary: Overview of the Waterhackweek
 - Participants are expected to attend all scheduled Waterhack activities. Contact an organizer if any circumstances prevent you from attending.
 
 ### Food
-- Lunch is provided Monday - Friday. You will receive a meal card to purchase lunch anywhere on campus. You will have $15 per day or $75 for the week. The closest place to get food from the [South Campus Center Classroom](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975) is [The Rotunda.](https://hfs.uw.edu/Eat/Dining-Locations/The-Rotunda) 
+- Lunch is provided Monday - Friday. You will receive a meal card to purchase lunch anywhere on campus. You will have $15 per day or $75 for the week. The closest place to get food from the [South Campus Center Classroom](https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129862,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975) is [The Rotunda](https://hfs.uw.edu/Eat/Dining-Locations/The-Rotunda).
 - We will have two coffee and snack breaks scheduled each day.
 - Dinner and drinks will be provided on Monday at the Welcome Reception.
 - Participants are expected to take care of their own breakfasts on all days, and their own dinners Tuesday through Friday.
